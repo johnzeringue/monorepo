@@ -1,0 +1,6 @@
+[submodule "old/html-proofer"]
+	path = old/html-proofer
+	url = https://github.com/johnzeringue/html-proofer
+[submodule "old/javason"]
+	path = old/javason
+	url = https://github.com/johnzeringue/Javason
